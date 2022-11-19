@@ -74,9 +74,11 @@ Jupyter Notebook:
 Future Work:
 House price prediction in Dhaka city is mostly important for development and real estate companies which operates business in Dhaka city. Alongside, buyers can also justify and plan to purchase their desired house by just clicking well designed UI/UX of the model. Dhaka is one of the fastest growing cities in Bangladesh.  The housing plan is highly demand for all the times. It can be used in to analyze the performance of real estate business and development. 
  
+ 
 Conclusion:
 Machine Learning is a combination that is consisted of several concept of mathematics, computational statistics, python distributions and after all analytics. It has been used widely to figure out, estimate, forecaster, predict and analyze from a dig data set.
 Prediction using ML depends on the technique and algorithm used in data frame. Decision tree, Linear Regression and Feature Engineering has been used to make the data set or data frame eligible for training.  After all, the machine can return some value for each query.  
 
 Tutorials & Acknowledgment : Codebasics
+
 Note : The tutorial data set has been modified to represent data frame for location only
